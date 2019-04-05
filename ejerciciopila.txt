@@ -1,0 +1,30 @@
+Ejercicio pila.
+
+La idea es hacer una clase llamada Pila.
+
+Desde la clase Init voy a llamar a uno de los metodos de Pila.
+
+Pila, va a tener los metodos:
+
+m1, m2, m3, m4, m5, m6.
+
+m1 llama a m2, m2 llama a m3.... m5 llama a m6.
+
+Cada uno de los metodos debe mostrar una leyenda que diga.
+
+Ejemplo en m1:
+
+Antes de llamar a m2
+llamo a m2
+Despues de llamar a m2
+
+Ejemplo en m2
+
+Antes de llamar a m3
+llamo a m3
+Despues de llamar a m3
+
+Esto es hasta llegar a m6.
+Cuando llego a m6, muestro: "llegue a m6"
+
+
